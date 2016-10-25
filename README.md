@@ -8,3 +8,4 @@ Proyecto Invernadero: Usa un BBB como base para controlar un invernadero casero.
 
 2da. Fase
 1._Se medirá la efectividad del sistema y tal vez los efectos que tiene la luz en la plantas mediendo el color verde en las hojas.
+##Poco probable que la medición del color verde pueda medirse continuamente por la humedad del sistema, quizas una cámara externa y un algoritmo de procesamiento de imagenes podría ayudar.
